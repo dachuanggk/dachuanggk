@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dachuanggk
-- 👀 I’m interested in software enginering
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning python & machine learning
 - 💞️ I’m looking to collaborate on learing machine learning together
 - 📫 How to reach me 273901837@qq.com
